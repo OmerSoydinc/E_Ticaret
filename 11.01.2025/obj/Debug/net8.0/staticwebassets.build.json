@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GUs6JzcdVQeDVTdUPz2N2EZzLVMznPyZk1ntMLH8wc4=",
+  "Source": "MiniETicaret.Products.WebAPI",
+  "BasePath": "_content/MiniETicaret.Products.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
